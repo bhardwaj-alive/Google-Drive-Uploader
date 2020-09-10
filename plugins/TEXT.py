@@ -1,12 +1,12 @@
 
 
 # Here is Your Drive Folder Name You can Replace it with Your Desire name(Optional)
-drive_folder_name = "GDriveUploaderBot"
+drive_folder_name = "G2DriveBot"
 
 
 # Enter Your Mega email And Pass (Required)
-MEGA_EMAIL = "bearyan8@yandex.com"
-MEGA_PASSWORD = "bearyan8@yandex.com"
+MEGA_EMAIL = "bhardwaj@hi2.in"
+MEGA_PASSWORD = "@bhardwajji"
 
 
 START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  @aryanvikash"
@@ -38,9 +38,9 @@ DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
 PROCESSING = "Processing Your Request ...!!"
 DOWN_TWO = True
-DOWNLOAD = "Downloading Started ..."
+DOWNLOAD = "Downloading Started ... ❤️"
 DOWN_MEGA = "Downloading Started... \n  Mega Links are \n Extremely Slow :("
-DOWN_COMPLETE = "Downloading complete !!"
+DOWN_COMPLETE = "Downloading complete ...❤️!!"
 NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Using /auth  \n\n @aryanvikash"
 REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise \n\n report At @aryanvikash "
 AUTH_SUCC = "Authorised Successfully  !! \n\n Now Send me A direct Link :)"
