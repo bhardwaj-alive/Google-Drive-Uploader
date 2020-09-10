@@ -37,10 +37,10 @@ DOWN_TWO = True
 DOWNLOAD = "Downloading Started ... "
 DOWN_MEGA = "Downloading Started... \n  Mega Links are \n Extremely Slow :("
 DOWN_COMPLETE = "Downloading complete ...!!"
-NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Using /auth  \n\n @aryanvikash"
-REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise \n\n report At @aryanvikash "
+NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Using /auth  \n\n "
+REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise \n\n"
 AUTH_SUCC = "Authorised Successfully  !! \n\n Now Send me A direct Link :)"
-ALREADY_AUTH = "You Are Already Authorised ! \n\n Wanna Change Drive Account? \n\n Use /revoke \n\n report At @aryanvikash "
+ALREADY_AUTH = "You Are Already Authorised ! \n\n Wanna Change Drive Account? \n\n Use /revoke \n\n"
 AUTH_URL = '<a href ="{}">Vist This Url</a> \n Generate And Copy Your Google Drive Token And Send It To Me'
 UPLOADING = "Download Complete !! \n Uploading Your file"
 REVOKE_TOK = " Your Token is Revoked Successfully !! \n\n Use /auth To Re-Authorise Your Drive Acc. "
@@ -58,10 +58,8 @@ UPDATE = """ <b> Update  on  27.07.2019</b>
             * Error Handling Improved
 
 <b> Links Supported By Bot</b>
-            * Direct Links 
-            * Openload links [Max Speed 
-              500 KBps :(   ]
-            * Dropbox links 
-            *  Mega links (only files)
-            
-            + More are in way:) """
+            ❤️ Direct Links 
+            💔 Yt-Dl supported links
+            ❤️ Openload links
+            ❤️ Dropbox links 
+            💔 Mega links (only files)
