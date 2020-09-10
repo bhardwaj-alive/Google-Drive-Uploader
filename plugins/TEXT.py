@@ -51,14 +51,3 @@ AUTH_ERROR = "AUTH Error !! Please  Send Me a  valid Token or Re - Authorise Me 
 OPENLOAD = True
 DROPBOX = True
 MEGA = True
-
-
-UPDATE = """ ImpRoved InterFace """
-
-            Direct Links 
-            Some Yt-Dl supported links
-            Openload links
-            Dropbox links 
-            Mega links (only files)
-            Streaming Links 
-            No Ip specific links please
